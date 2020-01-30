@@ -1,0 +1,9 @@
+Berglund 5 2
+Tarasenko 5 5
+Schwartz 4 0
+Perron 3 5
+Fabbri 2 0
+Jaskin 2 0
+Lehtera 2 4
+Steen 2 7
+Sobotka 2 6

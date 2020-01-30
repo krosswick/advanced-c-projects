@@ -1,0 +1,10 @@
+black
+cherry
+cobalt
+forest
+gunmetal
+lemon
+lime
+royal
+saddlewood
+white
